@@ -1,4 +1,6 @@
 .target
+db/
+*.db
 logs
 project/project
 project/target
